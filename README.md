@@ -5,27 +5,18 @@ A Java console-based Employee Management System built using JDBC + MySQL. Suppor
 🚀 Features
 
 Create, Read, Update, Delete employee records
-
 Search employees by ID, Name, Department
-
 Update employee details (phone, department, name, DOB)
-
 Delete employees with confirmation
-
 Formatted table output for clean console display
-
 Input validation + exception handling
-
 Clean, layered architecture (DB Layer + Service Layer + Model Layer)
 
 🛠 Tech Stack
 
 Java (Core + OOP)
-
 JDBC
-
 MySQL
-
 Console-based UI
 
 📂 Project Structure
